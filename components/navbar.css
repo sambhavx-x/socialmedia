@@ -1,0 +1,37 @@
+.navbar{
+    height: 10vh;
+    background-color: rgb(8, 8, 8);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 1vw;
+    color: white;
+    
+
+}
+.one{
+    font-size: 10px;
+
+}
+
+.two{
+    font-size: 13px;
+    font-weight: 800;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+   
+}
+.search-bar{
+    width: 15vw;
+    
+}
+.right{
+    display: flex;
+}
+.paper{
+margin-right: 2vw;
+}
+/* MOBILE_NAVBAR */
+
